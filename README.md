@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sarapaul
 - 👀 I’m interested in Designing, app development and machine learning.
-- 🌱 I’m currently learning cloud computing.
 - 💞️ I’m looking to collaborate on designing projects
 
 <!---
